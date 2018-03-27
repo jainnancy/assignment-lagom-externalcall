@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/employee-api/employee-api.iml" filepath="$PROJECT_DIR$/employee-api/employee-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-api-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-api-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-impl/employee-impl.iml" filepath="$PROJECT_DIR$/employee-impl/employee-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-impl-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-impl-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-lagom.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-lagom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/employee-lagom-build.iml" filepath="$PROJECT_DIR$/.idea/modules/employee-lagom-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/external.iml" filepath="$PROJECT_DIR$/.idea/modules/external.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/external-build.iml" filepath="$PROJECT_DIR$/.idea/modules/external-build.iml" />
+    </modules>
+  </component>
+</project>
